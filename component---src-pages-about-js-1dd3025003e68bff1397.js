@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_gatsby_site=self.webpackChunkmy_gatsby_site||[]).push([[682],{5035:function(e,a,n){n.r(a),n.d(a,{default:function(){return u}});var t=n(7294);var s=[{name:"mahmoud",age:25,id:1},{name:"mohamed",age:15,id:2},{name:"elsawah",age:10,id:3}];var u=()=>{const e=s.map((e=>e));return console.log(e),t.createElement("div",null,"About")}}}]);
+//# sourceMappingURL=component---src-pages-about-js-1dd3025003e68bff1397.js.map
